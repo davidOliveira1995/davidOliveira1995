@@ -2,7 +2,9 @@
 
 Hey, I'm David!
 
-Born in Nova Iguaçu - RJ, Brazil
-Living in Registro - SP, Brazil
+<ul>
+  <li>Born in Nova Iguaçu - RJ, Brazil</li>
+  <li>Living in Registro - SP, Brazil</li>
+</ul>
 
-- 🌱 I’m currently learning JavaScript with ReactJS
+<p>🌱 I’m currently learning JavaScript and ReactJS</p>
