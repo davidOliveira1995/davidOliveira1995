@@ -10,3 +10,4 @@ Hey, I'm David! 28 years old
 <p>🌱 I’m currently learning JavaScript and ReactJS</p>
 
 <a href="#" target="_blank">Linkedin</a>
+<a href="#" target="_blank">Instagram</a>
