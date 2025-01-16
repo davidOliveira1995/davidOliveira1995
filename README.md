@@ -1,4 +1,4 @@
-# Faaala galerinha!
+# Olá!
 
 Me chamo David de Oliveira Silva, Sou formado em Análise e Desenvolvimento de Sistemas, atualmente não estou no mercado, mas estudando para ingressar.
 
