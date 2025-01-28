@@ -1,6 +1,6 @@
 # Sobre!
 
-David de Oliveira Silva
+<h1>David de Oliveira Silva</h1>
 
 Idade: 29 anos
 
@@ -9,11 +9,12 @@ Residência atual: São Paulo - SP
 
 🎓 Formação Acadêmica:
 <ul>
-<li>Tecnólogo em Análise e Desenvolvimento de Sistemas (concluído)</li>
-Bacharelado em Sistemas de Informação (em andamento)
-Pós-graduação em Engenharia de Software (em andamento)
-Pós Graduação em Engenharia de Software - Em Andamento
+  <li>Tecnólogo em Análise e Desenvolvimento de Sistemas (concluído)</li>
+  <li>Bacharelado em Sistemas de Informação (em andamento)</li>
+  <li>Pós-graduação em Engenharia de Software (em andamento)</li>
+  <li>Pós Graduação em Engenharia de Software - Em Andamento</li>
 </ul>
+
 ## Minhas redes de contato 🔗
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-oliveiraos/)
