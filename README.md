@@ -1,33 +1,22 @@
-# Olá!
+# Sobre!
 
-Me chamo David de Oliveira Silva, Sou formado em Análise e Desenvolvimento de Sistemas, atualmente não estou no mercado, mas estudando para ingressar.
+David de Oliveira Silva
 
-Tenho 29 anos e sou natural do Rio de Janeiro, mas atualmente estou residindo no interior de São Paulo (Registro - SP)
+Idade: 29 anos
 
-# Stats
+Naturalidade: Rio de Janeiro - RJ
+Residência atual: São Paulo - SP
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-# Most Used Languages
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-# Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-
-
+🎓 Formação Acadêmica:
+<ul>
+<li>Tecnólogo em Análise e Desenvolvimento de Sistemas (concluído)</li>
+Bacharelado em Sistemas de Informação (em andamento)
+Pós-graduação em Engenharia de Software (em andamento)
+Pós Graduação em Engenharia de Software - Em Andamento
+</ul>
 ## Minhas redes de contato 🔗
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-oliveiraos/)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/david.oliveira.7334504/)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dsoliveirarj/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidOliveira1995)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5513997565966)
 
 ## O que eu sei?
 
