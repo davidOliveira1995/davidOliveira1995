@@ -12,7 +12,6 @@ Residência atual: São Paulo - SP
   <li>Tecnólogo em Análise e Desenvolvimento de Sistemas (concluído)</li>
   <li>Bacharelado em Sistemas de Informação (em andamento)</li>
   <li>Pós-graduação em Engenharia de Software (em andamento)</li>
-  <li>Pós Graduação em Engenharia de Software - Em Andamento</li>
 </ul>
 
 ## Minhas redes de contato 🔗
