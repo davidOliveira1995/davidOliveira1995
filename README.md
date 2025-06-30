@@ -29,9 +29,9 @@ Residência atual: Registro - SP
 
 ### 📊 Minhas Estatísticas no GitHub
 
-[![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=davidOliveira1995&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davidOliveira1995&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Minhas redes de contato 🔗
 
