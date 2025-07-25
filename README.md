@@ -2,7 +2,7 @@
 
 <h1>David de Oliveira Silva</h1>
 
-Idade: 29 anos
+Idade: 30 anos
 
 Naturalidade: Rio de Janeiro - RJ
 Residência atual: Registro - SP
