@@ -1,6 +1,6 @@
 ## Sobre!
 
-<h1>David de Oliveira Silva</h1>
+<h1>David O.Silva</h1>
 
 Idade: 30 anos
 
@@ -33,9 +33,4 @@ Residência atual: Registro - SP
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davidOliveira1995&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Minhas redes de contato 🔗
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-oliveiraos/)
-
----
 
